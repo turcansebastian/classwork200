@@ -1,0 +1,27 @@
+visible{
+    visibility: visible;
+}
+.hidden{
+    visibility: hidden;
+}
+.o1{
+    opacity: 1;
+}
+.o2{
+    opacity: 0;
+}
+.o3{
+    opacity: 0.5;
+}
+.none{
+    display: none;
+    font-weight: bold;
+}
+.block{
+    display: block;
+    font-weight: bold;
+}
+h3{
+    background-color: blue;
+    text-align: center;
+}
